@@ -31,6 +31,7 @@ See the [API documentation](http://open-source-society.github.io/ossu-api/docs/i
 ### Clone the repository
 ```bash
 $ git clone git@github.com:open-source-society/ossu-api.git
+$ cd ossu-api
 ```
 
 ### Configure Environment
